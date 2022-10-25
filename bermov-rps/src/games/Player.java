@@ -1,6 +1,8 @@
 package games;
 
 public class Player {
+
+    //@TODO: If the fields are not declared as private they can be manipulated from outside
     int score;
     String name;
     //constructor
